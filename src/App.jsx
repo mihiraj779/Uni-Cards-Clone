@@ -5,10 +5,10 @@ import Cross from "./assets/cross.svg";
 import Arrow from "./assets/arrow.svg";
 import VideoBg from "./assets/nxt_wave_bg.mp4";
 import Hamburger from "./assets/hamburger.svg";
-import ScrollAnimatedSection from "./components/AnimateOnScroll";
+import ScrollAnimatedSection from "./components/animateOnScroll";
 import useToggle from "./hooks/useToggle";
-import Apply from "./components/Apply";
-import MobileApply from "./components/MobileApply";
+import Apply from "./components/apply";
+import MobileApply from "./components/mobileApply";
 import useIsVisible from "./hooks/useIsVisible";
 
 function App() {
