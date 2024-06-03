@@ -29,7 +29,7 @@ function Apply({
     <>
       <form className={wrapperClassName}>
         <div className=" bg-black max-w-[330px] rounded-xl flex p-1 pl-2 justify-between">
-          <div className="flex" style={{ marginLeft: '8em' }}>
+          <div className="flex">
             <input
               type="number"
               placeholder="Enter Phone Number"
